@@ -13,9 +13,6 @@
 
   <ItemGroup>
     <Reference Include="IronSource-Android_v6.14.0.1">
-      <HintPath>..\xamarin-android-mediation\Nugets\Android\SDK\dlls\IronSource-Android_v6.14.0.1.dll</HintPath>
-    </Reference>
-    <Reference Include="IronSource-Android_v6.14.0.1">
       <HintPath>dlls\IronSource-Android_v6.14.0.1.dll</HintPath>
     </Reference>
   </ItemGroup>
