@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/ironsourcesdk.csproj": {}
+    "/Users/moshe.aviv-aslanov/git/sdkTest/ironsourcesdk.csproj": {}
   },
   "projects": {
-    "/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/ironsourcesdk.csproj": {
+    "/Users/moshe.aviv-aslanov/git/sdkTest/ironsourcesdk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/ironsourcesdk.csproj",
+        "projectUniqueName": "/Users/moshe.aviv-aslanov/git/sdkTest/ironsourcesdk.csproj",
         "projectName": "OctocatApp",
-        "projectPath": "/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/ironsourcesdk.csproj",
+        "projectPath": "/Users/moshe.aviv-aslanov/git/sdkTest/ironsourcesdk.csproj",
         "packagesPath": "/Users/moshe.aviv-aslanov/.nuget/packages/",
-        "outputPath": "/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/obj/",
+        "outputPath": "/Users/moshe.aviv-aslanov/git/sdkTest/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/NuGet.Config",
+          "/Users/moshe.aviv-aslanov/git/sdkTest/NuGet.Config",
           "/Users/moshe.aviv-aslanov/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
