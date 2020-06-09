@@ -1,0 +1,12 @@
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/bin/Release/netcoreapp3.0/ironsourcesdk.deps.json
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/bin/Release/netcoreapp3.0/ironsourcesdk.runtimeconfig.json
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/bin/Release/netcoreapp3.0/ironsourcesdk.runtimeconfig.dev.json
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/bin/Release/netcoreapp3.0/ironsourcesdk.dll
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/bin/Release/netcoreapp3.0/ironsourcesdk.pdb
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/obj/Release/netcoreapp3.0/ironsourcesdk.csprojAssemblyReference.cache
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/obj/Release/netcoreapp3.0/ironsourcesdk.AssemblyInfoInputs.cache
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/obj/Release/netcoreapp3.0/ironsourcesdk.AssemblyInfo.cs
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/obj/Release/netcoreapp3.0/ironsourcesdk.csproj.CoreCompileInputs.cache
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/obj/Release/netcoreapp3.0/ironsourcesdk.dll
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/obj/Release/netcoreapp3.0/ironsourcesdk.pdb
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/obj/Release/netcoreapp3.0/ironsourcesdk.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CZe+8N20m2D93b2qhbGKrizEXnw3/6F7JT45iOvQAAs35bYtop5veLEz3w5AEH9WLA9Kt8PDAwNKXZbymXITXA==",
+  "success": true,
+  "projectFilePath": "/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/ironsourcesdk.csproj",
+  "expectedPackageFiles": [
+    "/Users/moshe.aviv-aslanov/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/Users/moshe.aviv-aslanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>OctocatApp</id>
+    <version>1.0.0</version>
+    <authors>moshe2091</authors>
+    <owners>moshe2091</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package adds an Octocat!</description>
+    <repository url="https://github.com/moshe2091/Nugets" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/bin/Release/netcoreapp3.0/ironsourcesdk.runtimeconfig.json" target="lib/netcoreapp3.0/ironsourcesdk.runtimeconfig.json" />
+    <file src="/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/bin/Release/netcoreapp3.0/ironsourcesdk.dll" target="lib/netcoreapp3.0/ironsourcesdk.dll" />
+  </files>
+</package>

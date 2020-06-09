@@ -1,0 +1,13 @@
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/bin/Debug/netcoreapp3.1/ironsourcesdk.deps.json
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/bin/Debug/netcoreapp3.1/ironsourcesdk.runtimeconfig.json
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/bin/Debug/netcoreapp3.1/ironsourcesdk.runtimeconfig.dev.json
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/bin/Debug/netcoreapp3.1/ironsourcesdk.dll
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/bin/Debug/netcoreapp3.1/ironsourcesdk.pdb
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/bin/Debug/netcoreapp3.1/IronSource-Android_v6.14.0.1.dll
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/obj/Debug/netcoreapp3.1/ironsourcesdk.csprojAssemblyReference.cache
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/obj/Debug/netcoreapp3.1/ironsourcesdk.AssemblyInfoInputs.cache
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/obj/Debug/netcoreapp3.1/ironsourcesdk.AssemblyInfo.cs
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/obj/Debug/netcoreapp3.1/ironsourcesdk.csproj.CopyComplete
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/obj/Debug/netcoreapp3.1/ironsourcesdk.dll
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/obj/Debug/netcoreapp3.1/ironsourcesdk.pdb
+/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/obj/Debug/netcoreapp3.1/ironsourcesdk.genruntimeconfig.cache

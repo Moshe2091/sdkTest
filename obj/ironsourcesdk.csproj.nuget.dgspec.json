@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/ironsourcesdk.csproj": {}
+  },
+  "projects": {
+    "/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/ironsourcesdk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/ironsourcesdk.csproj",
+        "projectName": "OctocatApp",
+        "projectPath": "/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/ironsourcesdk.csproj",
+        "packagesPath": "/Users/moshe.aviv-aslanov/.nuget/packages/",
+        "outputPath": "/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/moshe.aviv-aslanov/Projects/nugetsNew/ironsourcesdk/NuGet.Config",
+          "/Users/moshe.aviv-aslanov/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://nuget.pkg.github.com/moshe2091/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
