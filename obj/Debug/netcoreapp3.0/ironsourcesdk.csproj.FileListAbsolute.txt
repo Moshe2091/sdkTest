@@ -1,0 +1,13 @@
+/Users/moshe.aviv-aslanov/git/sdkTest/bin/Debug/netcoreapp3.0/ironsourcesdk.deps.json
+/Users/moshe.aviv-aslanov/git/sdkTest/bin/Debug/netcoreapp3.0/ironsourcesdk.runtimeconfig.json
+/Users/moshe.aviv-aslanov/git/sdkTest/bin/Debug/netcoreapp3.0/ironsourcesdk.runtimeconfig.dev.json
+/Users/moshe.aviv-aslanov/git/sdkTest/bin/Debug/netcoreapp3.0/ironsourcesdk.dll
+/Users/moshe.aviv-aslanov/git/sdkTest/bin/Debug/netcoreapp3.0/ironsourcesdk.pdb
+/Users/moshe.aviv-aslanov/git/sdkTest/bin/Debug/netcoreapp3.0/IronSource-Android_v6.14.0.1.dll
+/Users/moshe.aviv-aslanov/git/sdkTest/obj/Debug/netcoreapp3.0/ironsourcesdk.csprojAssemblyReference.cache
+/Users/moshe.aviv-aslanov/git/sdkTest/obj/Debug/netcoreapp3.0/ironsourcesdk.AssemblyInfoInputs.cache
+/Users/moshe.aviv-aslanov/git/sdkTest/obj/Debug/netcoreapp3.0/ironsourcesdk.AssemblyInfo.cs
+/Users/moshe.aviv-aslanov/git/sdkTest/obj/Debug/netcoreapp3.0/ironsourcesdk.csproj.CopyComplete
+/Users/moshe.aviv-aslanov/git/sdkTest/obj/Debug/netcoreapp3.0/ironsourcesdk.dll
+/Users/moshe.aviv-aslanov/git/sdkTest/obj/Debug/netcoreapp3.0/ironsourcesdk.pdb
+/Users/moshe.aviv-aslanov/git/sdkTest/obj/Debug/netcoreapp3.0/ironsourcesdk.genruntimeconfig.cache

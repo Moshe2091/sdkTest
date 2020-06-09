@@ -15,7 +15,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "/Users/moshe.aviv-aslanov/git/sdkTest/ironsourcesdk.csproj",
-      "projectName": "OctocatApp",
+      "projectName": "sdkTest",
       "projectPath": "/Users/moshe.aviv-aslanov/git/sdkTest/ironsourcesdk.csproj",
       "packagesPath": "/Users/moshe.aviv-aslanov/.nuget/packages/",
       "outputPath": "/Users/moshe.aviv-aslanov/git/sdkTest/obj/",
